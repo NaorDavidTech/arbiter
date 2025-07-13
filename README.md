@@ -1,4 +1,4 @@
-# arbiter
+
 
 # 🧠 Arbiter FSM in Verilog
 
